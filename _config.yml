@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+title: BestRoute
+description: [Route Planning and Management]
+google_analytics: [UA-110202641-1]
