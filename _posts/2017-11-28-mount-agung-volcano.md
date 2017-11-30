@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: single
 title: Mount Agung - Bali tourism hit by eruption threat
+sidebar:
+  nav: "docs"
 ---
 {{ page.title }}
 ================

@@ -1,4 +1,8 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes"
 title: BestRoute
 description: [Route Planning and Management]
 google_analytics: [UA-110202641-1]
+
+minimal_mistakes_skin: "aqua" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+plugins:
+  - jekyll-remote-theme
