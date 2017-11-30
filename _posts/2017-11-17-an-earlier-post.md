@@ -6,7 +6,7 @@ sidebar:
   nav: docs
 ---
 
-This post has a custom navigation list set in the post's YAML Front Matter.
+This post has a custom navigation list set in the post's YAML Front Matter .
 
 ```yaml
 sidebar:
