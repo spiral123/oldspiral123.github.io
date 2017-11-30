@@ -13,7 +13,7 @@ BestRoute is an app that helps you Plan, Optimize and Navigation multi-stop rout
 
 ## Plan
 
-get your waypoints in
+There are a number of different ways to enter your waypoints into BestRoute.
 
 [^structure]: See [**Structure** page]({{ "/docs/structure/" | absolute_url }}) for a list of theme files and what they do.
 
